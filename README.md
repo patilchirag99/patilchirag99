@@ -2,7 +2,6 @@
 
 <h3>When I code, I rely on</h3>
 <p>
-  [![Java](https://img.shields.io/badge/Java-8+-blue.svg)](https://www.java.com/)
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
