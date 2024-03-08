@@ -1,4 +1,4 @@
-###  👋 Hi there, I'm Chirag Patil
+###  👋 Hi there, I'm Chirag 
 
 <h3>When I code, I rely on</h3>
 <p>
